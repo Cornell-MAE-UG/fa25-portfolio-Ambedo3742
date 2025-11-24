@@ -3,17 +3,15 @@ layout: project
 title: Thermodynamic Analysis of Heat Exchanger
 description: Class project with heat exchanger
 technologies: [Thermodynamics, Heat Exchanger]
-image: /assets/images/Brazed plate heat exchanger cut away.jpg
+image: /assets/images/Brazed plate heat exchanger cut away.jpg 
 ---
+<h3> Introduction </h3>
+As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. In the image below, the heat exchanger is set to operate in a counter-flow configuration. We also took measurements regarding a parallel flow configuration. 
 
+<img src="/assets/images/Setup wet.JPG" width="500" /> <br> <br>
 
-As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. <img src="" width="500" />
+<h3> Diagram </h3>
 
-
-
-
-
-This is how I solved the problem:
 
 
 
