@@ -7,15 +7,15 @@ image: /assets/images/function-graph.png
 ---
 
 
-As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. ![Heat Exchanger](/assets/images/Setup)
+As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. <img src="assets/images/Setup" width="500" />
 
-// 
+[](https://github.com/Cornell-MAE-UG/fa25-portfolio-Ambedo3742/blob/ed0a1fb9fa98aee68fe66b1fbe883ac170ac7a07/assets/images/Brazed%20plate%20heat%20exchanger%20cut%20away.jpg)
+
+
+
 This is how I solved the problem:
 
-```python
-    some code = 10;
-    plot();
-```
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+
+
 
