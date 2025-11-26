@@ -5,6 +5,15 @@ description: Class project with heat exchanger
 technologies: [Thermodynamics, Heat Exchanger]
 image: /assets/images/Brazed plate heat exchanger cut away.jpg 
 ---
+
+<head>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+    </script>
+</head>
+
+<body> 
+
 <h3> Introduction </h3>
 As part of a class project, our group conducted an analysis on the performance of a brazed plate heat exchanger when used with heated and chilled water. In the image below, the heat exchanger is set to operate in a counter-flow configuration. We also took measurements regarding a parallel flow configuration. 
 
@@ -35,8 +44,4 @@ For this setup, we used two submersible water pumps to pump water from resevoirs
 
 <br> <br>
 
-
-
-
-
-
+</body>
